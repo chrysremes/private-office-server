@@ -1,0 +1,1 @@
+Hi. Consider all the skills under @file:Skills, the objectives and constraints defined in @file:objectives.md and the description in the @file:initial-plan.md . Create a plan to achieve the Main and Especific Objectives. Save the plan in the root of this project as "migration-v1.md" . Do not read anything under @file:.prompts .
