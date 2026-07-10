@@ -31,6 +31,32 @@
 
 - Faixa provável: R$ 13.400 a R$ 13.800
 
+## Estimativa anual de manutenção
+
+### Premissas para manutenção anual
+
+- Manutenção preventiva simples: atualizações do sistema, checagem de funcionamento do Samba/Tailscale e revisão básica das permissões.
+- Suporte esporádico: ajustes pontuais de rede, acesso remoto, Excel/macros e problemas de compartilhamento.
+- Não inclui aquisição de hardware novo, licenças de software pagos ou implementação de soluções mais robustas.
+
+### Estimativa de esforço anual
+
+| Item | Estimativa |
+|---|---:|
+| Manutenção preventiva e revisões | 8 horas/ano |
+| Suporte pontual e atendimento de incidentes | 8 horas/ano |
+| Contingência para problemas imprevistos | 4 horas/ano |
+| Total estimado | 20 horas/ano |
+
+### Custo anual estimado de manutenção
+
+- 20 horas x R$ 300/h = R$ 6.000/ano
+
+### Observações
+
+- Esta estimativa considera um cenário simples e operacional, com baixa complexidade e sem equipe interna dedicada.
+- Em um cenário com maior uso remoto, mais usuários ou necessidade de suporte frequente, o custo anual pode subir para cerca de R$ 7.000 a R$ 8.000/ano.
+
 ## Observações
 
 - Esta estimativa considera um cenário típico de execução com uso de Samba como solução principal e WebDAV apenas como fallback, se necessário.
